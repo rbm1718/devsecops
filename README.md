@@ -34,14 +34,14 @@ Opensource инструменты
 
 ## Другие важные ссылки
 
--[Общий чеклист по безопасности облака](https://cloud.yandex.ru/docs/security/domains/checklist)
--[Cloud Security Solution Library](https://github.com/yandex-cloud/yc-solution-library-for-security)
--[Сообщество безопасности в Яндекс Облако](https://t.me/YandexCloudSecurity)
--[Курсы по безопасности](https://cloud.yandex.ru/training/infrastructure-protection)
+- [Общий чеклист по безопасности облака](https://cloud.yandex.ru/docs/security/domains/checklist)
+- [Cloud Security Solution Library](https://github.com/yandex-cloud/yc-solution-library-for-security)
+- [Сообщество безопасности в Яндекс Облако](https://t.me/YandexCloudSecurity)
+- [Курсы по безопасности](https://cloud.yandex.ru/training/infrastructure-protection)
 
 ## Выступления на тему Compliance и DevSecOps
--[Безопасное развёртывание контейнерных приложений](https://www.youtube.com/watch?v=Q4VAWr-SdMw&t=10006s)
--[Обнаружение Log4shell в CI/CD с помощью GitLab](https://www.youtube.com/watch?v=ub5QRrwXJno&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=17)
--[DevSecOps для безопасной разработки](https://www.youtube.com/watch?v=t-iJtbHqULs&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=18)
--[Соответвие требованиям 152-ФЗ](https://www.youtube.com/watch?v=dS9KPfIE9oQ&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=2)
--[Безопасная обработка данных платежных карт в Yandex.Cloud]()
+- [Безопасное развёртывание контейнерных приложений](https://www.youtube.com/watch?v=Q4VAWr-SdMw&t=10006s)
+- [Обнаружение Log4shell в CI/CD с помощью GitLab](https://www.youtube.com/watch?v=ub5QRrwXJno&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=17)
+- [DevSecOps для безопасной разработки](https://www.youtube.com/watch?v=t-iJtbHqULs&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=18)
+- [Соответвие требованиям 152-ФЗ](https://www.youtube.com/watch?v=dS9KPfIE9oQ&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=2)
+- [Безопасная обработка данных платежных карт в Yandex.Cloud](https://www.youtube.com/watch?v=UTe1P5GVGZo&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=1)
