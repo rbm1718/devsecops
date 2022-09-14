@@ -26,20 +26,22 @@
 Opensource инструменты
 ![image](https://user-images.githubusercontent.com/26599534/189936760-18ebfd7d-8f68-4726-809b-1b6eb9677fd1.png)
 
-##Чеклисты по compliance
+## Чеклисты по compliance
 
-- Соответствие 152-ФЗ шаги
-- Новые требования к закону (от 01.09.2022
-- Соответствие PCI-DSS шаги
+- [Соответствие 152-ФЗ шаги](https://storage.yandexcloud.net/yc-compliance/recomendations/FZ-152-RU.pdf)
+- [Новые требования к закону (от 01.09.2022)](https://storage.yandexcloud.net/yc-compliance/Checklist_new_requirements_152-FZ.pdf)
+- [Соответствие PCI-DSS шаги](https://storage.yandexcloud.net/yc-compliance/certificates/YC_PCI_DSS_Guide.pdf)
 
-##Другие важные ссылки
+## Другие важные ссылки
 
-https://cloud.yandex.ru/docs/security/domains/checklist
-https://github.com/yandex-cloud/yc-solution-library-for-security
-https://t.me/YandexCloudSecurity
-Курсы по DevSecOps в облаке
+[Общий чеклист по безопасности облака](https://cloud.yandex.ru/docs/security/domains/checklist)
+[Cloud Security Solution Library](https://github.com/yandex-cloud/yc-solution-library-for-security)
+[Сообщество безопасности в Яндекс Облако](https://t.me/YandexCloudSecurity)
+[Курсы по безопасности](Курсы по DevSecOps в облаке)
 
-##Выступления на тему Compliance и DevSecOps
-Безопасное развёртывание контейнерных приложений
-Рассказ про поиск уязвимостей
-Обзор DevSecOps
+## Выступления на тему Compliance и DevSecOps
+[Безопасное развёртывание контейнерных приложений](https://www.youtube.com/watch?v=Q4VAWr-SdMw&t=10006s)
+[Обнаружение Log4shell в CI/CD с помощью GitLab](https://www.youtube.com/watch?v=ub5QRrwXJno&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=17)
+[DevSecOps для безопасной разработки](https://www.youtube.com/watch?v=t-iJtbHqULs&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=18)
+[Соответвие требованиям 152-ФЗ](https://www.youtube.com/watch?v=dS9KPfIE9oQ&list=PL1x4ET76A10Yi8ejAht9puemwRX_qmIlB&index=2)
+[Безопасная обработка данных платежных карт в Yandex.Cloud]()
